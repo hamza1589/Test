@@ -3,6 +3,7 @@ package Subject;
 import java.util.HashMap;
 
 public class Algorithm {
+    //hamza
     public static void main(String[] args) {
         String data= "Java is programming language Java is citi in Indonesia";
         String []splitedData= data.split(" ");
